@@ -1,1 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Beelzebub-Hell/bio/main/image/Frame%206.png" width="500" alt="Frame 6" style="background: transparent;"/>  
+<br>
+<img src="https://raw.githubusercontent.com/Beelzebub-Hell/bio/main/image/Frame%207.png" width="500" alt="Frame 7" style="background: transparent;"/>
+
+</div>
